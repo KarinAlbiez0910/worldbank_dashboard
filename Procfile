@@ -1,1 +1,1 @@
-web gunicporn worldbank:app
+web gunicorn worldbank:app
