@@ -8,7 +8,7 @@ https://worldbank-app-karin.herokuapp.com/
 
 This project (Worldbank Data Dashboard) is part of Udacity Data Scientists Nanodegree Program.
 
-It can serve as a tenmplate for data dashboards based on the pandas framework and Plotly graphs. 
+It can serve as a template for data dashboards based on the pandas framework and Plotly graphs. 
 The backend framework used is Flask.
 
 
